@@ -10,7 +10,7 @@ Files:
 GITHUB RELEASES APK DOWNLOAD
 ----------------------------
 The website download buttons point to:
-https://github.com/souhaibff1/downly/releases/latest/download/Downly.apk
+https://github.com/souhaibff1/-Downly/releases/download/v1.0.0/Downly.apk
 
 To publish a new app version:
 1. Open the GitHub repository: https://github.com/souhaibff1/downly
